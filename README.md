@@ -1,2 +1,2 @@
 # finance-investment-analytics
-Finance, investment, and data analytics portfolio
+Finance, FP&A, Investment, and Data Analytics portfolio (Excel/SQL/Python/BI) — case studies + models + dashboards.
