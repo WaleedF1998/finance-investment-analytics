@@ -1,6 +1,6 @@
 # Finance, Data, BI, ML & Investment Portfolio
 
-I design finance, analytics, and decision-support systems that help organizations understand performance, forecast outcomes, and make high-quality decisions under uncertainty.
+I design finance and analytics frameworks that help organizations understand performance, forecast outcomes, and make high-quality decisions under uncertainty.
 
 This repository documents how I approach real-world business problems across:
 - FP&A and driver-based financial planning
@@ -10,9 +10,9 @@ This repository documents how I approach real-world business problems across:
 - Applied machine learning for financial decisions
 - Investment analysis and valuation
 
-The emphasis is not on tools alone, but on **how systems are designed, validated, and used** — particularly in fully remote and async environments.
+The emphasis is not on tools alone, but on how models and frameworks are structured, validated, and used — particularly in fully remote and async environments.
 
-> Some projects are fully implemented, while others are documented as system designs or partial implementations using simulated or anonymized data. This reflects how professional finance and analytics teams plan before execution.
+> Some projects are fully implemented, while others are documented as framework designs or partial implementations using simulated or anonymized data. This reflects how professional finance and analytics teams plan before execution.
 
 ---
 
