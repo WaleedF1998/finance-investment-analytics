@@ -1,66 +1,37 @@
-# Finance, Investment & Analytics Portfolio
+# Finance, Data, BI, ML & Investment Portfolio
 
-This repository is my **central professional portfolio**, bringing together projects across:
+I design finance, analytics, and decision-support systems that help organizations understand performance, forecast outcomes, and make high-quality decisions under uncertainty.
 
-- FP&A and Commercial Finance  
-- Investment and Valuation (Real Estate and Corporate)  
-- Data and Financial Analytics  
+This repository documents how I approach real-world business problems across:
+- FP&A and driver-based financial planning
+- Finance-focused data analytics and automation
+- Executive dashboards (Tableau / Power BI)
+- Accounting controls and pricing systems
+- Applied machine learning for financial decisions
+- Investment analysis and valuation
 
-The focus is on **practical, decision-oriented case studies** built using real-world finance workflows:
-Excel, SQL, Python, BI tools, and structured financial modeling.
+The emphasis is not on tools alone, but on **how systems are designed, validated, and used** — particularly in fully remote and async environments.
 
----
-
-## Profile Summary
-
-Finance and FP&A professional with a strong analytics background and hands-on experience in:
-
-- Revenue and usage forecasting  
-- Budgeting, variance analysis, and scenario modeling  
-- Valuation, underwriting, and portfolio monitoring  
-- Executive reporting and dashboarding  
-
-All projects emphasize **clarity, business relevance, and decision support**, rather than academic theory.
+> Some projects are fully implemented, while others are documented as system designs or partial implementations using simulated or anonymized data. This reflects how professional finance and analytics teams plan before execution.
 
 ---
 
-## Repository Structure
+## Portfolio Sections
 
-### Finance (FP&A / Commercial Finance)
-Projects focused on driver-based forecasting, margin analysis, cost optimization, scenario planning, and management reporting.
+### 01. Finance Decision Systems  
+Driver-based revenue analysis, forecasting, scenario planning, and performance management.
 
-Path: `/finance`
+### 02. Finance Data Analytics  
+SQL- and Python-style analytics to improve financial visibility, integrity, and decision speed.
 
----
+### 03. BI & Executive Dashboards  
+Tableau and Power BI dashboards designed for leadership, board, and performance reviews.
 
-### Investment (Valuation & Strategy)
-Projects covering underwriting models, portfolio-level analysis, investment committee materials, valuation, and market research.
+### 04. Accounting & Pricing Systems  
+Operational finance controls, reconciliations, and pricing frameworks.
 
-Path: `/investment`
+### 05. Machine Learning Applied to Finance  
+Using ML where it adds value — and understanding where traditional FP&A performs better.
 
----
-
-### Data (Analytics & BI)
-Projects using SQL, Python, and BI tools to support financial analysis, forecasting, and performance tracking.
-
-Path: `/data`
-
----
-
-## Project Format
-
-Each project is structured as a standalone case study and typically includes:
-
-- Business problem and context  
-- Dataset (realistic or simulated)  
-- Analytical or modeling approach  
-- Outputs (models, charts, dashboards)  
-- Key insights and decisions supported  
-
----
-
-## Notes
-
-- This is the **only active portfolio repository**
-- Older repositories redirect here to avoid broken links
-- Content is organized for **recruiter and hiring-manager review**
+### 06. Investment & Valuation  
+Underwriting, portfolio analysis, market theses, and investment decision support.
