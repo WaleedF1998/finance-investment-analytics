@@ -1,33 +1,39 @@
 # Finance, Data, BI, ML & Investment Portfolio
 
-I design finance and analytics frameworks that help organizations understand performance, forecast outcomes, and make high-quality decisions under uncertainty.
+This repository documents how I approach finance, analytics, and investment problems with a focus on decision-making, clarity, and validation.
 
-This repository documents how I approach real-world business problems across:
+The work here reflects how real finance and analytics teams operate: defining the business question first, structuring the logic carefully, validating assumptions, and communicating results clearly — especially in remote and async environments.
+
+The portfolio covers:
 - FP&A and driver-based financial planning
-- Finance-focused data analytics and automation
+- Finance-focused data analytics and reporting automation
 - Executive dashboards (Tableau / Power BI)
-- Accounting controls and pricing systems
-- Applied machine learning for financial decisions
-- Investment analysis and valuation
+- Accounting controls and pricing analysis
+- Applied machine learning for financial decision support
+- Investment analysis and valuation (UAE-focused)
 
-The emphasis is not on tools alone, but on how models and frameworks are structured, validated, and used — particularly in fully remote and async environments.
+> Some projects are fully implemented, while others are documented as analytical or financial frameworks prior to full execution. This mirrors professional practice, where design and validation come before scaling.
 
-> Some projects are fully implemented, while others are documented as framework designs or partial implementations using simulated or anonymized data. This reflects how professional finance and analytics teams plan before execution.
+## Portfolio Structure
 
----
+**01. Finance Decision Systems**  
+Driver-based revenue analysis, forecasting, unit economics, and performance management.
 
-## Portfolio Sections
-
-### 01. Finance Decision Systems  
-Driver-based revenue analysis, forecasting, scenario planning, and performance management.
-
-### 02. Finance Data Analytics  
+**02. Finance Data Analytics**  
 SQL- and Python-style analytics to improve financial visibility, integrity, and decision speed.
 
-### 03. BI & Executive Dashboards  
-Tableau and Power BI dashboards designed for leadership, board, and performance reviews.
+**03. BI & Executive Dashboards**  
+Tableau and Power BI dashboard designs for executives, management reviews, and boards.
 
-### 04. Accounting & Pricing Systems  
+**04. Accounting & Pricing Systems**  
+Operational finance frameworks for controls, reconciliation, and margin discipline.
+
+**05. Machine Learning Applied to Finance**  
+Practical ML use cases evaluated against traditional FP&A approaches.
+
+**06. Investment & Valuation (UAE)**  
+UAE-focused underwriting, portfolio analysis, and market thesis development.
+
 Operational finance controls, reconciliations, and pricing frameworks.
 
 ### 05. Machine Learning Applied to Finance  
