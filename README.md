@@ -52,7 +52,7 @@ Data pipelines for financial data
 
 Machine learning applications in forecasting and risk modeling
 
-**Purpose**
+## Purpose
 
 The goal of this portfolio is to demonstrate:
 
