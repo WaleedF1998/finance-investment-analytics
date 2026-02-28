@@ -1,27 +1,65 @@
-# Finance, Accounting, Data, BI & ML Portfolio
+# Finance, Accounting & Data Analytics Portfolio
 
 ## Overview
-This repository contains a diverse portfolio of projects focusing on **finance operations, accounting, data analytics, business intelligence (BI), machine learning (ML)**, and more. It includes frameworks and solutions for **global finance governance, financial reconciliation, and advanced analytics**.
+This repository contains a growing portfolio of projects across:
 
-## Current Project: Global AP Control & Compliance Framework (Excel)
+Finance Operations
+
+Accounting & Financial Controls
+
+Payroll Automation
+
+Data Analytics & Business Intelligence
+
+SQL & Data Engineering
+
+Machine Learning for Finance
+
+The focus is on building structured, scalable, and automation-driven solutions that connect finance with data and technology.
+
+## Current Project: Finance Control & Payroll Automation Framework
 
 This project is an **Accounts Payable control model** adapted for **NGO organizations** such as ILGA, with integration for Oyster payroll solutions. It emphasizes AP governance, compliance reporting, and financial reconciliation processes for multi-country operations.
 
 ## Project Flow:
 - **Raw_Input** → **Validation_Engine** → **Payment_Batch** → **EOR_Reconciliation** → **Grant_Register** → **Donor_Compliance_Summary** → **AP_Control_Dashboard**
 
-## Key Modules:
-- **Validation Engine**: Blocked transactions with error reasons.
-- **Payment Batch**: Ensures only approved transactions are executed.
-- **EOR Reconciliation**: Compares invoices against payroll expectations.
-- **Grant Register**: Tracks payment status and compliance for grants.
-- **Donor Compliance Summary**: Monitors donor funding compliance.
-- **AP Control Dashboard**: Provides executive-level visibility into financial controls and risks.
+**Key capabilities demonstrated:**
 
-## Future Projects:
-This repository will include additional projects related to:
-- **Financial Planning & Analysis (FP&A) Models**
-- **Multi-country Payroll Systems**
-- **Data Analytics & Business Intelligence (BI) for Finance**
-- **Machine Learning (ML) Models for Financial Forecasting and Risk Analysis**
-- **Data Engineering Pipelines for Financial Data Management**
+Multi-country financial validation
+
+Payroll batching & reconciliation
+
+Control-first system design
+
+SQL-based automation logic
+
+Compliance adaptability
+
+📂 Location:
+projects/finance-control-payroll-automation/
+
+## Upcoming Areas of Expansion:
+This repository will continue to expand into:
+
+Financial Planning & Analysis (FP&A) models
+
+Advanced accounting systems & reconciliations
+
+Data analytics dashboards (Power BI / Looker / SQL)
+
+Data pipelines for financial data
+
+Machine learning applications in forecasting and risk modeling
+
+**Purpose**
+
+The goal of this portfolio is to demonstrate:
+
+Finance transformation thinking
+
+Automation-first design
+
+Data-driven decision frameworks
+
+Cross-functional finance & data integration
