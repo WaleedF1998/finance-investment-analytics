@@ -2,6 +2,7 @@
 Excel → SQL Automation Architecture
 
 **Project Overview**
+
 This project demonstrates the design and evolution of a multi-country financial control framework adaptable for NGOs, payroll providers, and global finance operations.
 The framework began as an Excel-based Accounts Payable (AP) governance model and evolved into a structured payroll automation system supported by SQL-based validation and reconciliation logic.
 It is designed to be scalable, modular, and adaptable across industries.
