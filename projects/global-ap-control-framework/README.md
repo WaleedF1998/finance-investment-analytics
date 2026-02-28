@@ -1,23 +1,81 @@
-# Global AP Control & Compliance Framework (Excel)
+**Global AP & Payroll Control Framework**
+Excel → SQL Automation Architecture
 
-## Overview
-The **Global AP Control & Compliance Framework** is a comprehensive **Accounts Payable (AP)** control model designed for **multi-country operations**. This project focuses on integrating key financial governance processes, including **validation rules**, **payment batch governance**, **EOR reconciliation**, and **donor/grant compliance monitoring**. The framework is particularly useful for **NGO organizations** like **ILGA**, and is adaptable for payroll systems like **Oyster**.
+**Project Overview**
+This project demonstrates the design and evolution of a multi-country financial control framework adaptable for NGOs, payroll providers, and global finance operations.
+The framework began as an Excel-based Accounts Payable (AP) governance model and evolved into a structured payroll automation system supported by SQL-based validation and reconciliation logic.
+It is designed to be scalable, modular, and adaptable across industries.
 
-## Project Flow:
-1. **Raw_Input**: Data input, which includes transactions and payroll records.
-2. **Validation_Engine**: Data validation and error-checking processes to ensure accuracy and compliance.
-3. **Payment_Batch**: Governance of the payment process to only allow approved transactions.
-4. **EOR_Reconciliation**: Matching expected payroll with actual invoices to ensure accuracy.
-5. **Grant_Register**: Tracking payments to grants, monitoring payment statuses, and ensuring proper reporting.
-6. **Donor_Compliance_Summary**: Overview of donor compliance, ensuring that the funds are reported correctly.
-7. **AP_Control_Dashboard**: Executive-level dashboard providing visibility into AP controls and risks.
+**Architecture Flow**
+Raw_Input
+→ Validation_Engine
+→ Payment_Batch
+→ EOR_Reconciliation
+→ Compliance Modules
+→ Control_Dashboard
 
-## Key Modules:
-- **Validation Engine**: Validates transactions based on compliance rules, blocks errors, and provides error reasons.
-- **Payment Batch**: Only allows approved transactions to be processed.
-- **EOR Reconciliation**: Matches payroll expectations with actual invoices for correct disbursements.
-- **Grant Register**: Tracks payments and reporting statuses for grant management.
-- **Donor Compliance Summary**: Checks compliance with donor regulations and tracks funding reporting.
-- **AP Control Dashboard**: Visual summary of AP control performance, highlighting any issues or risks.
+**Core Layers**
+1️⃣ **Raw Input Layer**
+Structured transaction and payroll data source.
 
+2️⃣ **Validation Engine (Control Layer)**
+Rule-based validation including:
+Required field checks
+Amount validation
+Currency and FX checks
+VAT logic
+Duplicate detection
+Data blocking logic
+Only validated records proceed forward.
 
+3️⃣ **Payment Batch (Execution Layer)**
+Processes only approved transactions.
+Transaction-level payment queue
+System-generated Batch_ID
+Aggregated batch summaries
+
+4️⃣ **EOR Reconciliation (Accounting Layer)**
+Multi-country payroll reconciliation logic:
+Filter by employment model
+Aggregate payroll by month & country
+Apply employer tax & service fees
+Auto-generate invoice structure
+Perform variance checks
+Reconciliation status tracking
+
+5️⃣ **Compliance Modules**
+Designed for NGO and grant-based environments:
+Grant Register
+Donor Compliance Summary
+These modules demonstrate adaptability of the framework to compliance-driven environments.
+
+6️⃣ **Control Dashboard (Reporting Layer)**
+Executive-level summary including:
+Blocked vs Approved transactions
+Payment execution overview
+EOR reconciliation status
+Risk visibility
+
+**Technical Implementation**
+**Excel Models**
+Used to design and prototype the financial control framework.
+**SQL Automation**
+Includes:
+Database setup
+Validation engine logic
+Payment batch processing
+EOR reconciliation engine
+All SQL scripts are modular and can rebuild the full system sequentially.
+
+**Workflow Diagram**
+A visual representation of the end-to-end control architecture.
+
+**Positioning**
+This framework demonstrates:
+Finance transformation thinking
+Payroll system logic
+Multi-country compliance awareness
+Structured automation design
+Control-first architecture
+
+It is adaptable to NGOs, payroll platforms, global employment providers, and finance operations teams.
