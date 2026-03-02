@@ -4,7 +4,7 @@
 
 This project builds an integrated financial intelligence framework for a $35M ARR B2B SaaS company operating in a high-growth environment.
 
-It connects revenue driver modeling, SQL-based reporting architecture, and capital structure simulation to demonstrate how operating performance translates into enterprise value and investor returns.
+It connects revenue driver modeling, SQL-based reporting architecture, and capital structure simulation to demonstrate how operational performance translates into enterprise value and investor returns.
 
 ---
 
