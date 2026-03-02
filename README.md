@@ -1,65 +1,103 @@
 # Finance, Accounting & Data Analytics Portfolio
 
 ## Overview
-This repository contains a growing portfolio of projects across:
 
-Finance Operations
+This repository contains a structured portfolio of projects spanning finance operations, accounting systems, financial controls, strategic FP&A modeling, and data-driven decision frameworks.
 
-Accounting & Financial Controls
+The focus is on building scalable, automation-driven solutions that connect finance, analytics, and technology to support operational efficiency and enterprise value creation.
 
-Payroll Automation
+## Core Areas of Focus
 
-Data Analytics & Business Intelligence
+• Finance Operations & Controls
+• Accounting Systems & Reconciliations
+• Payroll Automation & Compliance
+• Financial Planning & Analysis (FP&A)
+• SQL & Data Engineering
+• Data Analytics & Business Intelligence
+• Capital Modeling & Valuation
+• Machine Learning Applications in Finance
 
-SQL & Data Engineering
+## Featured Projects
 
-Machine Learning for Finance
+## Finance Control & Payroll Automation Framework
 
-The focus is on building structured, scalable, and automation-driven solutions that connect finance with data and technology.
+📂 projects/finance-control-payroll-automation/
 
-## Current Project: Finance Control & Payroll Automation Framework
+An Accounts Payable governance and payroll control system adapted for NGO environments (e.g., ILGA) with Oyster EOR integration.
 
-This project is an **Accounts Payable control model** adapted for **NGO organizations** such as ILGA, with integration for Oyster payroll solutions. It emphasizes AP governance, compliance reporting, and financial reconciliation processes for multi-country operations.
-
-## Project Flow:
-- **Raw_Input** → **Validation_Engine** → **Payment_Batch** → **EOR_Reconciliation** → **Grant_Register** → **Donor_Compliance_Summary** → **AP_Control_Dashboard**
-
-**Key capabilities demonstrated:**
+## Key Capabilities:
 
 Multi-country financial validation
 
 Payroll batching & reconciliation
 
-Control-first system design
+AP governance architecture
+
+Grant & donor compliance tracking
 
 SQL-based automation logic
 
-Compliance adaptability
+Control-first system design
 
-📂 Location:
-projects/finance-control-payroll-automation/
+## Strategic Revenue & Financial Intelligence System
 
-## Upcoming Areas of Expansion:
-This repository will continue to expand into:
+📂 Strategic-Revenue-Financial-Intelligence-System/
 
-Financial Planning & Analysis (FP&A) models
+An integrated SaaS financial intelligence framework modeling a $35M ARR B2B company in high-growth mode.
 
-Advanced accounting systems & reconciliations
+## System Components:
 
-Data analytics dashboards (Power BI / Looker / SQL)
+• Revenue Intelligence Engine
 
-Data pipelines for financial data
+MRR & ARR modeling
 
-Machine learning applications in forecasting and risk modeling
+Churn & Net Revenue Retention (NRR)
+
+Cohort analysis
+
+LTV & CAC modeling
+
+Monte Carlo growth simulation
+
+• SQL Enterprise Data Layer
+
+Star schema architecture
+
+KPI reporting queries
+
+Revenue segmentation
+
+Revenue-at-risk analysis
+
+• Capital & LBO Engine
+
+ARR multiple valuation
+
+Growth sensitivity modeling
+
+Capital allocation analysis
+
+5-year LBO simulation
+
+IRR & MOIC modeling
+
+This project demonstrates strategic finance thinking, forecasting discipline, and enterprise value modeling.
+
+## Strategic Direction
+
+This portfolio is built around three pillars:
+
+Control & Governance (Accounting foundation)
+
+Automation & Data Architecture (Operational scalability)
+
+Strategic Finance & Capital Modeling (Value creation lens)
 
 ## Purpose
 
-The goal of this portfolio is to demonstrate:
+The goal of this repository is to demonstrate:
 
-Finance transformation thinking
-
-Automation-first design
-
-Data-driven decision frameworks
-
-Cross-functional finance & data integration
+• Finance transformation thinking
+• Structured, automation-first system design
+• Data-driven financial decision support
+• Integration between accounting, analytics, and strategy
