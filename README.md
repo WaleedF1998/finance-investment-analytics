@@ -2,102 +2,147 @@
 
 ## Overview
 
-This repository contains a structured portfolio of projects spanning finance operations, accounting systems, financial controls, strategic FP&A modeling, and data-driven decision frameworks.
+This repository contains a structured portfolio of projects spanning **finance operations, accounting systems, financial controls, strategic FP&A modeling, blockchain financial analytics, and data-driven decision frameworks.**
 
-The focus is on building scalable, automation-driven solutions that connect finance, analytics, and technology to support operational efficiency and enterprise value creation.
+The focus is on building **scalable, automation-driven solutions that connect finance, analytics, and technology** to support operational efficiency and enterprise value creation.
+
+---
 
 ## Core Areas of Focus
 
-• Finance Operations & Controls
-• Accounting Systems & Reconciliations
-• Payroll Automation & Compliance
-• Financial Planning & Analysis (FP&A)
-• SQL & Data Engineering
-• Data Analytics & Business Intelligence
-• Capital Modeling & Valuation
-• Machine Learning Applications in Finance
+• Finance Operations & Controls  
+• Accounting Systems & Reconciliations  
+• Payroll Automation & Compliance  
+• Financial Planning & Analysis (FP&A)  
+• SQL & Data Engineering  
+• Data Analytics & Business Intelligence  
+• Capital Modeling & Valuation  
+• Blockchain Financial Analytics  
+• Machine Learning Applications in Finance  
 
-## Featured Projects
+---
+
+# Featured Projects
+
+---
 
 ## Finance Control & Payroll Automation Framework
 
-📂 projects/finance-control-payroll-automation/
+📂 `finance-control-payroll-automation/`
 
-An Accounts Payable governance and payroll control system adapted for NGO environments (e.g., ILGA) with Oyster EOR integration.
+An **Accounts Payable governance and payroll control system** adapted for NGO environments (e.g., ILGA) with Oyster EOR integration.
 
-## Key Capabilities:
+### Key Capabilities
 
-Multi-country financial validation
+• Multi-country financial validation  
+• Payroll batching & reconciliation  
+• AP governance architecture  
+• Grant & donor compliance tracking  
+• SQL-based automation logic  
+• Control-first system design  
 
-Payroll batching & reconciliation
-
-AP governance architecture
-
-Grant & donor compliance tracking
-
-SQL-based automation logic
-
-Control-first system design
+---
 
 ## Strategic Revenue & Financial Intelligence System
 
-📂 Strategic-Revenue-Financial-Intelligence-System/
+📂 `Strategic-Revenue-Financial-Intelligence-System/`
 
-An integrated SaaS financial intelligence framework modeling a $35M ARR B2B company in high-growth mode.
+An integrated **SaaS financial intelligence framework** modeling a **$35M ARR B2B company in high-growth mode.**
 
-## System Components:
+### System Components
 
-• Revenue Intelligence Engine
+#### Revenue Intelligence Engine
 
-MRR & ARR modeling
+• MRR & ARR modeling  
+• Churn & Net Revenue Retention (NRR)  
+• Cohort analysis  
+• LTV & CAC modeling  
+• Monte Carlo growth simulation  
 
-Churn & Net Revenue Retention (NRR)
+#### SQL Enterprise Data Layer
 
-Cohort analysis
+• Star schema architecture  
+• KPI reporting queries  
+• Revenue segmentation  
+• Revenue-at-risk analysis  
 
-LTV & CAC modeling
+#### Capital & LBO Engine
 
-Monte Carlo growth simulation
+• ARR multiple valuation  
+• Growth sensitivity modeling  
+• Capital allocation analysis  
+• 5-year LBO simulation  
+• IRR & MOIC modeling  
 
-• SQL Enterprise Data Layer
+This project demonstrates **strategic finance thinking, forecasting discipline, and enterprise value modeling.**
 
-Star schema architecture
+---
 
-KPI reporting queries
+## Crypto Financial Operations Dashboard
 
-Revenue segmentation
+📂 `crypto-financial-operations-dashboard/`
 
-Revenue-at-risk analysis
+A **financial analytics system built using blockchain transaction data, accounting datasets, Python, SQL, and Power BI.**
 
-• Capital & LBO Engine
+The project simulates financial analytics for a crypto-native organization by connecting **on-chain activity with internal financial records**.
 
-ARR multiple valuation
+### Analytics Components
 
-Growth sensitivity modeling
+#### Revenue Analytics
 
-Capital allocation analysis
+• Monthly crypto revenue tracking from blockchain transactions  
+• Average transaction value analysis  
+• Transaction activity monitoring  
 
-5-year LBO simulation
+#### Financial KPIs
 
-IRR & MOIC modeling
+• Total crypto revenue  
+• Total transactions  
+• Average transaction value  
+• Treasury valuation  
 
-This project demonstrates strategic finance thinking, forecasting discipline, and enterprise value modeling.
+#### Accounting Analytics
 
-## Strategic Direction
+• Accounts receivable aging analysis  
+• Invoice performance monitoring  
+
+#### Treasury Monitoring
+
+• Crypto treasury allocation across ETH, USDC, and DAI  
+• Asset exposure visualization  
+
+### Technology Stack
+
+• Python (pandas)  
+• SQL (DuckDB)  
+• Power BI  
+• Excel data modeling  
+
+This project demonstrates **blockchain financial analytics, operational finance monitoring, and modern BI dashboard development.**
+
+---
+
+# Strategic Direction
 
 This portfolio is built around three pillars:
 
-Control & Governance (Accounting foundation)
+**1. Control & Governance**  
+Accounting foundations, financial controls, and compliance architecture.
 
-Automation & Data Architecture (Operational scalability)
+**2. Automation & Data Architecture**  
+Operational scalability through SQL systems, automation frameworks, and structured data pipelines.
 
-Strategic Finance & Capital Modeling (Value creation lens)
+**3. Strategic Finance & Capital Modeling**  
+Enterprise value creation through forecasting, capital allocation, and revenue intelligence.
 
-## Purpose
+---
+
+# Purpose
 
 The goal of this repository is to demonstrate:
 
-• Finance transformation thinking
-• Structured, automation-first system design
-• Data-driven financial decision support
-• Integration between accounting, analytics, and strategy
+• Finance transformation thinking  
+• Structured, automation-first system design  
+• Data-driven financial decision support  
+• Integration between accounting, analytics, and strategy  
+• Application of modern data tools within finance operations
