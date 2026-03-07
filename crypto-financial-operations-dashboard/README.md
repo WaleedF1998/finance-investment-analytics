@@ -8,7 +8,7 @@ The project integrates **Python data processing**, **SQL analytics**, and **Powe
 
 ## Project Overview
 
-The objective of this project is to analyze **blockchain transaction data together with accounting datasets** in order to build a financial intelligence dashboard.
+The objective of this project is to analyze blockchain transaction data together with accounting datasets in order to build a financial intelligence dashboard.
 
 The system tracks:
 
@@ -29,7 +29,7 @@ Financial KPI Calculation
 ↓  
 Accounting Analytics  
 ↓  
-Power BI Dashboard
+Power BI Dashboard  
 
 ---
 
