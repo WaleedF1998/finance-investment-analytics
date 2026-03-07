@@ -2,24 +2,24 @@
 
 This project analyzes blockchain transaction data and financial records to simulate financial analytics for a crypto company.
 
-The project integrates Python data processing, SQL analytics, and Power BI visualization to produce a financial operations dashboard.
+The project integrates **Python data processing**, **SQL analytics**, and **Power BI visualization** to produce a financial operations dashboard.
 
 ---
 
 ## Project Overview
 
-The objective of this project is to analyze blockchain transaction data together with accounting datasets in order to build a financial intelligence dashboard.
+The objective of this project is to analyze **blockchain transaction data together with accounting datasets** in order to build a financial intelligence dashboard.
 
 The system tracks:
 
-• crypto revenue performance  
-• transaction activity  
-• accounts receivable aging  
-• treasury asset allocation  
+- Crypto revenue performance  
+- Transaction activity  
+- Accounts receivable aging  
+- Treasury asset allocation  
 
 ---
 
-## Workflow
+## Project Workflow
 
 Blockchain Data  
 ↓  
@@ -35,42 +35,34 @@ Power BI Dashboard
 
 ## Financial Analytics Included
 
-Revenue monitoring
+### Revenue Monitoring
+Monthly crypto revenue analysis derived from blockchain transactions.
 
-Monthly crypto revenue analysis from blockchain transactions.
+### Transaction Monitoring
+Monthly transaction activity tracking to analyze operational volume.
 
-Transaction monitoring
+### Financial KPIs
 
-Monthly transaction activity tracking.
+- Total crypto revenue  
+- Total transactions  
+- Average transaction value  
+- Total treasury value  
 
-Financial KPIs
-
-• Total crypto revenue  
-• Total transactions  
-• Average transaction value  
-• Total treasury value  
-
-Accounting analytics
-
+### Accounting Analytics
 Accounts receivable aging analysis showing outstanding invoice periods.
 
-Treasury monitoring
-
-Crypto treasury allocation across ETH, USDC, and DAI.
+### Treasury Monitoring
+Crypto treasury allocation across major assets including **ETH, USDC, and DAI**.
 
 ---
 
 ## Tools Used
 
-Python (pandas)
-
-SQL (DuckDB)
-
-Power BI
-
-Excel
-
-GitHub
+- Python (pandas)  
+- SQL (DuckDB)  
+- Power BI  
+- Excel  
+- GitHub  
 
 ---
 
@@ -82,12 +74,12 @@ GitHub
 
 ## Skills Demonstrated
 
-Financial data analysis  
-Accounting analytics  
-Revenue performance monitoring  
-Blockchain transaction analysis  
-Power BI dashboard development  
-Python data engineering  
+- Financial data analysis  
+- Accounting analytics  
+- Revenue performance monitoring  
+- Blockchain transaction analysis  
+- Power BI dashboard development  
+- Python data engineering  
 
 ---
 
