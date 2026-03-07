@@ -64,13 +64,7 @@ Crypto treasury allocation across major assets including ETH, USDC, and DAI.
 - Excel  
 - GitHub  
 
----
 
-## Dashboard Preview
-
-![Dashboard](dashboard_preview.png)
-
----
 
 ## Skills Demonstrated
 
