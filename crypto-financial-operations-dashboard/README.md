@@ -2,7 +2,7 @@
 
 This project analyzes blockchain transaction data and financial records to simulate financial analytics for a crypto company.
 
-The project integrates **Python data processing**, **SQL analytics**, and **Power BI visualization** to produce a financial operations dashboard.
+The project integrates Python data processing, SQL analytics, and Power BI visualization to produce a financial operations dashboard.
 
 ---
 
@@ -52,7 +52,7 @@ Monthly transaction activity tracking to analyze operational volume.
 Accounts receivable aging analysis showing outstanding invoice periods.
 
 ### Treasury Monitoring
-Crypto treasury allocation across major assets including **ETH, USDC, and DAI**.
+Crypto treasury allocation across major assets including ETH, USDC, and DAI.
 
 ---
 
