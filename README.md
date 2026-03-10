@@ -10,7 +10,17 @@ The focus is on building **scalable financial systems that connect accounting, a
 
 ---
 
-# Core Areas of Focus
+## Technology Stack
+
+• Microsoft Excel — financial modeling, accounting systems, and financial data structuring  
+• Power BI — business intelligence dashboards and financial KPI visualization  
+• SQL / DuckDB — data querying, transformation, and analytics workflows  
+• Python (pandas) — financial data analysis and automation  
+• Financial modeling frameworks — KPI design, financial statement modeling, and analytics systems  
+
+---
+
+## Core Areas of Focus
 
 • Finance Operations & Controls  
 • Accounting Systems & Financial Reporting  
@@ -28,63 +38,11 @@ The focus is on building **scalable financial systems that connect accounting, a
 
 ---
 
-## Accounts Receivable & Accounts Payable Management System
-
-📂 `accounts-receivable-payable-management-system/`
-
-An operational finance system designed to manage **customer receivables, vendor payables, and working capital monitoring**.
-
-The system tracks invoices, payments, and outstanding balances while providing financial insights through a **Power BI dashboard**.
-
-### System Components
-
-**Accounts Receivable**
-
-• Customer master data  
-• Sales invoices  
-• Customer payments  
-• AR aging analysis  
-
-Used to track **customer balances and overdue invoices**.
-
-**Accounts Payable**
-
-• Vendor master data  
-• Vendor bills  
-• Vendor payments  
-• AP aging analysis  
-
-Used to monitor **supplier balances and payment schedules**.
-
-**Banking Operations**
-
-• Customer payment inflows  
-• Vendor payment outflows  
-• Bank transaction tracking  
-
-Provides visibility into **cash movements and operational liquidity**.
-
-### Dashboard Analytics
-
-• Revenue trend analysis  
-• Accounts receivable aging  
-• Accounts payable aging  
-• Working capital KPIs  
-
-**Tools Used**
-
-• Microsoft Excel  
-• Power BI  
-• Financial data modeling  
-• Operational finance analysis  
-
----
-
-## Financial Accounting Model Architecture
+## 1. Financial Accounting Model Architecture
 
 📂 `financial-accounting-model-architecture/`
 
-A structured **financial accounting system model** built in Excel that simulates how financial data flows through a real-world ERP environment.
+A structured financial accounting system model built in Excel that simulates how financial data flows through a real-world ERP environment.
 
 The system follows a **multi-layer accounting data architecture**, transforming operational data into financial statements and performance analytics.
 
@@ -141,7 +99,59 @@ This layer supports:
 
 ---
 
-## Finance Control & Payroll Automation Framework
+## 2. Accounts Receivable & Accounts Payable Management System
+
+📂 `accounts-receivable-payable-management-system/`
+
+An operational finance system designed to manage **customer receivables, vendor payables, and working capital monitoring**.
+
+The system tracks invoices, payments, and outstanding balances while providing financial insights through a **Power BI dashboard**.
+
+### System Components
+
+**Accounts Receivable**
+
+• Customer master data  
+• Sales invoices  
+• Customer payments  
+• AR aging analysis  
+
+Used to track **customer balances and overdue invoices**.
+
+**Accounts Payable**
+
+• Vendor master data  
+• Vendor bills  
+• Vendor payments  
+• AP aging analysis  
+
+Used to monitor **supplier balances and payment schedules**.
+
+**Banking Operations**
+
+• Customer payment inflows  
+• Vendor payment outflows  
+• Bank transaction tracking  
+
+Provides visibility into **cash movements and operational liquidity**.
+
+### Dashboard Analytics
+
+• Revenue trend analysis  
+• Accounts receivable aging  
+• Accounts payable aging  
+• Working capital KPIs  
+
+**Tools Used**
+
+• Microsoft Excel  
+• Power BI  
+• Financial data modeling  
+• Operational finance analysis  
+
+---
+
+## 3. Finance Control & Payroll Automation Framework
 
 📂 `finance-control-payroll-automation/`
 
@@ -158,7 +168,7 @@ An Accounts Payable governance and payroll control system adapted for NGO enviro
 
 ---
 
-## Strategic Revenue & Financial Intelligence System
+## 4. Strategic Revenue & Financial Intelligence System
 
 📂 `Strategic-Revenue-Financial-Intelligence-System/`
 
@@ -184,7 +194,7 @@ This project demonstrates **strategic finance modeling and enterprise valuation 
 
 ---
 
-## Crypto Financial Operations Dashboard
+## 5. Crypto Financial Operations Dashboard
 
 📂 `crypto-financial-operations-dashboard/`
 
