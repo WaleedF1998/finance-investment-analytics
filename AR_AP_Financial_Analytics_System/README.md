@@ -1,73 +1,89 @@
-Accounts Receivable & Accounts Payable Management System
-Overview
+# Accounts Receivable & Accounts Payable Management System
 
-This project simulates an operational finance system used to manage Accounts Receivable (AR) and Accounts Payable (AP).
+## Overview
 
-The system tracks customer invoices, vendor bills, payments, and outstanding balances while providing financial insights through a Power BI dashboard.
+This project simulates an operational finance system used to manage **Accounts Receivable (AR)** and **Accounts Payable (AP)**.
 
-The objective is to demonstrate how businesses monitor working capital, collections, and supplier obligations using structured financial data.
+The system tracks customer invoices, vendor bills, payments, and outstanding balances while providing financial insights through a **Power BI dashboard**.
 
-Business Scenario
+The objective is to demonstrate how businesses monitor **working capital, collections, and supplier obligations** using structured financial data.
 
-NovaTech Commerce Ltd is a simulated digital services company that generates revenue from business clients and manages operational expenses through vendor contracts.
+---
+
+## Business Scenario
+
+**NovaTech Commerce Ltd** is a simulated digital services company that generates revenue from business clients and manages operational expenses through vendor contracts.
 
 The company needs a system to track:
 
-• customer invoices and collections
-• vendor bills and payments
-• overdue receivables
-• supplier payment obligations
+• Customer invoices and collections  
+• Vendor bills and payments  
+• Overdue receivables  
+• Supplier payment obligations  
 
 This project models the financial operations required to manage these activities.
 
-System Components
-Accounts Receivable
+---
 
-• Customer master data
-• Sales invoices
-• Customer payments
-• AR aging report
+## System Components
 
-Used to track customer balances and overdue invoices.
+### Accounts Receivable
 
-Accounts Payable
+• Customer master data  
+• Sales invoices  
+• Customer payments  
+• AR aging report  
 
-• Vendor master data
-• Vendor bills
-• Vendor payments
-• AP aging report
+Used to track **customer balances and overdue invoices**.
 
-Used to monitor supplier balances and payment schedules.
+---
 
-Banking Operations
+### Accounts Payable
 
-• Customer payment inflows
-• Vendor payment outflows
-• Bank transaction tracking
+• Vendor master data  
+• Vendor bills  
+• Vendor payments  
+• AP aging report  
 
-Provides visibility into company cash movements.
+Used to monitor **supplier balances and payment schedules**.
 
-Power BI Dashboard
+---
+
+### Banking Operations
+
+• Customer payment inflows  
+• Vendor payment outflows  
+• Bank transaction tracking  
+
+Provides visibility into **company cash movements**.
+
+---
+
+## Power BI Dashboard
 
 An interactive dashboard visualizes key operational finance metrics:
 
-• revenue trends
-• accounts receivable aging
-• accounts payable aging
-• working capital KPIs
+• Revenue trends  
+• Accounts receivable aging  
+• Accounts payable aging  
+• Working capital KPIs  
 
-This helps analyze the company's financial position and cash flow activity.
+This helps analyze the company’s **financial position and cash flow activity**.
 
-Tools Used
+---
 
-• Microsoft Excel
-• Power BI
-• Financial data modeling
-• Operational finance analysis
+## Tools Used
 
-Project Files
+• Microsoft Excel  
+• Power BI  
+• Financial data modeling  
+• Operational finance analysis  
 
-• Excel AR/AP management system
-• Power BI financial operations dashboard
+---
+
+## Project Files
+
+• Excel AR/AP management system  
+• Power BI financial operations dashboard  
 
 These files demonstrate how financial data can be structured and analyzed to support business operations.
